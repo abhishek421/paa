@@ -1,0 +1,18 @@
+.screen{
+    min-height: 90vh;
+    width: 100vw;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sLogo{
+    width: 75vw;
+    height: 100px;
+    margin-top: 14px;
+    background-image: url(../assets/superLogo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

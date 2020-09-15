@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+    width: 80%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
